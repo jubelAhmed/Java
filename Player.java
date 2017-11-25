@@ -9,4 +9,8 @@ public class Player{
     public static void stausPrint(){
         System.out.println("This player is good player");
     }
+
+    public void showMessage(){
+        System.out.println("This is the first message");
+    }
 }
