@@ -13,4 +13,8 @@ public class Player{
     public void showMessage(){
         System.out.println("This is the first message");
     }
+
+    public int playerCount(){
+        return 11;
+    }
 }
